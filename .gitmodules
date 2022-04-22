@@ -1,0 +1,6 @@
+[submodule "tealrb"]
+	path = src/tealrb
+	url = https://github.com/joe-p/tealrb.git
+[submodule "src/method_source"]
+	path = src/method_source
+	url = https://github.com/banister/method_source
